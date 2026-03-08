@@ -9,9 +9,3 @@ stats:
 2x recipe cost
 
 stone and steel - 14x14 tiles, electric - 21x21 tiles
-
-roadmap:
-
-fix steel's and elecric's textures
-
-big assemblers

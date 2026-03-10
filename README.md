@@ -4,10 +4,12 @@ i just like multiblocks from gregtech lmao
 
 stats:
 
-80% fuel efficiency
+x48 Crafting speed
 
-125% pollution (because 80% efficiency = 125% consumption)
+80% Fuel efficiency
 
-2x recipe cost
+125% Pollution (because 80% efficiency = 125% consumption)
 
-x7 tiles/scale multiplier
+2x Recipe cost
+
+x7 Tiles/scale multiplier
